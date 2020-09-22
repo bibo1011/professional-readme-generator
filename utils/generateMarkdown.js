@@ -40,6 +40,8 @@ function generateMarkdown(data) {
    
   ${data.license}
 
+  🏆 The sections listed above are the minimum for a good README, but your project will ultimately determine the content of this document. You might also want to consider adding the following sections.
+
   ## *Badges*
 
   ![alt text](https://img.shields.io/badge/license-${data.license}-blueviolet?style=for-the-badge&logo=appveyor "license badge")
@@ -54,13 +56,13 @@ function generateMarkdown(data) {
 
   # Contact Info
 
-  ## *Github Username*
+  ## *Github*
    
   https://github.com/${data.github}
 
   ## *Email* 
 
-   If you have additional questons just hit the link to send email
+   If you have additional questions just hit the link to send an email
 
   mailto:${data.email}
 `;

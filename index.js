@@ -18,12 +18,6 @@ const questions = README => {
             name: 'description',
             message: 'Enter project description:'
         },
-        // {
-        //     type: 'input',
-        //     name: 'content',
-        //     message: 'Add table of content: (optional)'
-        //     // add links of the table
-        // },
         {
             type: 'input',
             name: 'installation',
