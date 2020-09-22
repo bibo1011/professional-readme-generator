@@ -1,63 +1,63 @@
-# blue
+# 
   ## *Description*
    
-  blue
+  
 
   ## *Table of Content*
-   
-    * [installation](#installation)
+  
+  * [Installation](#Installation)
 
-    * [usage](#usage)
+  * [Usage](#Usage)
 
-    * [credits](#credits)
+  * [Credits](#Credits)
 
-    * [license](#license)
+  * [License](#License)
 
-    * [contributing](#contributing)
+  * [Contributing](#Contributing)
 
-    * [test](#test)
+  * [Test](#Test)
 
-    * [contact info]
+  * [Github](#Github)
 
-    * [github](#github)
-
-    * [email](#email)
+  * [Email](#Email)
 
 
   ## *Installation*
    
-  blue
+  
 
   ## *Usage*
    
-  blue
+  
 
   ## *Credits*
    
-  blue
+  
 
   ## *License*
    
-  GNU AGPLv3,GNU GPLv3
+  
 
   ## *Badges*
 
-  ![alt text]("https://img.shields.io/badge/license-GNU-AGPLv3-blueviolet?style=for-the-badge&logo=appveyor badge"
+  ![alt text](https://img.shields.io/badge/license--blueviolet?style=for-the-badge&logo=appveyor "license badge")
 
   ## *Contributing*
    
-  blue
+  
 
   ## *Test*
    
-  blue
+  
+
+  # Contact Info
 
   ## *Github Username*
    
-  https://github.com/bibo1011
+  https://github.com/b
 
   ## *Email* 
 
    If you have additional questons just hit the link to send email
 
-  mailto:bibo_1011@yahoo.com
+  mailto:

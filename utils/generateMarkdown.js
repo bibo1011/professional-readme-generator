@@ -6,24 +6,22 @@ function generateMarkdown(data) {
   ${data.description}
 
   ## *Table of Content*
-   
-    * [installation](#installation)
+  
+  * [Installation](#Installation)
 
-    * [usage](#usage)
+  * [Usage](#Usage)
 
-    * [credits](#credits)
+  * [Credits](#Credits)
 
-    * [license](#license)
+  * [License](#License)
 
-    * [contributing](#contributing)
+  * [Contributing](#Contributing)
 
-    * [test](#test)
+  * [Test](#Test)
 
-    * [contact info]
+  * [Github](#Github)
 
-    * [github](#github)
-
-    * [email](#email)
+  * [Email](#Email)
 
 
   ## *Installation*
@@ -44,7 +42,7 @@ function generateMarkdown(data) {
 
   ## *Badges*
 
-  ![alt text]("https://img.shields.io/badge/license-${data.license}-blueviolet?style=for-the-badge&logo=appveyor license badge")
+  ![alt text](https://img.shields.io/badge/license-${data.license}-blueviolet?style=for-the-badge&logo=appveyor "license badge")
 
   ## *Contributing*
    
