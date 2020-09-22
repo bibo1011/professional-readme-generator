@@ -30,6 +30,8 @@
    
   1 Run 'node index' on terminal  2 You will be prompt with a series of questions  3 Provide answers to the questions  4 When complete, you will get a notification that README.md is created
 
+  Walkthrough video: https://drive.google.com/file/d/1mSDgcApHpVMdpq1zsToHbnuTjnSyqLwr/view
+
   ## *Credits*
    
   UCB Bootcamp
